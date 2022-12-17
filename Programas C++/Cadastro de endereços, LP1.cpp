@@ -647,15 +647,3 @@ void exclusaoEndereco(int codEndereco, int codigo){
 	txtAuxiliar << "";
 	txtAuxiliar.close();
 }
-
-
-
-
-
-
-
-
-
-
-
-
